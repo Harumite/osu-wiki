@@ -9,7 +9,7 @@ osu! wikiへようこそ — osu!についての幅広い情報を包含する�
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel wiki-main-page-panel--full">
 
-# まずはじめに
+# はじめに
 
 [ようこそ](/wiki/Welcome) • [インストール](/wiki/Installation) • [登録](/wiki/Registration) • [ヘルプセンター](/wiki/Help_Centre) • [よくある質問](/wiki/FAQ)
 
@@ -56,7 +56,7 @@ osu! wikiへようこそ — osu!についての幅広い情報を包含する�
 
 # コミュニティ
 
-[トーナメント](/wiki/Tournaments) • [スキン](/wiki/Skinning) • [プロジェクト](/wiki/Projects) • [ガイド](/wiki/Guides) • [osu!dev Discordサーバー](/wiki/osu!dev_Discord_server) • [osu!を支援する方法]](/wiki/How_You_Can_Help!) • [用語集](/wiki/Glossary)
+[トーナメント](/wiki/Tournaments) • [スキン](/wiki/Skinning) • [プロジェクト](/wiki/Projects) • [ガイド](/wiki/Guides) • [osu!dev Discordサーバー](/wiki/osu!dev_Discord_server) • [osu!を支援する方法](/wiki/How_You_Can_Help!) • [用語集](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -81,7 +81,7 @@ osu! wikiへようこそ — osu!についての幅広い情報を包含する�
 
 # wikiについて
 
-[サイトマップ](/wiki/Sitemap) • [wiki編集ガイド]](/wiki/osu!_wiki_Contribution_Guide) • [ページのスタイル基準](/wiki/Article_Styling_Criteria) • [ニュースのスタイル基準](/wiki/News_Styling_Criteria)
+[サイトマップ](/wiki/Sitemap) • [wiki編集ガイド](/wiki/osu!_wiki_Contribution_Guide) • [ページのスタイル基準](/wiki/Article_Styling_Criteria) • [ニュースのスタイル基準](/wiki/News_Styling_Criteria)
 
 </div>
 </div>
